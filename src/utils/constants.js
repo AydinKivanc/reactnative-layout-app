@@ -7,7 +7,7 @@ export const fontFamilies = {
 export const colors = {
   primary: '#222',
   secondary: '#aaa',
-  lightYellow: 'f8f884',
+  lightYellow: 'yellow',
   placeholder: 'grey',
   border: 'pink',
   menuItems: 'green',
